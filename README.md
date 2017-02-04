@@ -17,3 +17,16 @@ This project requires **Python 3**.
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 Please try using the environment we provided in the Anaconda lesson of the Nanodegree.
+
+### To create the environment
+
+** Mac OS X and Linux **
+1. Download the aind-environment-unix.yml at the installation folder
+2. conda env create -f aind-environment-unix.yml to create the environment.
+3. then source activate aind to enter the environment.
+
+** Windows **
+1. Download the Visual C++ Build Tools [here](http://landinghub.visualstudio.com/visual-cpp-build-tools)
+2. Download the aind-environment-windows.yml at the installation folder
+3. conda env create -f aind-environment-windows.yml to create the environment.
+4. then activate aind to enter the environment.
