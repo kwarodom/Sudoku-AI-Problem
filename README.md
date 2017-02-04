@@ -1,17 +1,4 @@
-## Introductory Project: Diagonal Sudoku Solver
-
-# Question 1 (Naked Twins)
-Q: How do we use constraint propagation to solve the naked twins problem?  
-A: **The Naked Twins techniques is used as constraint propagation that follows elimination and only_choice
-strategies in the reduce_puzzle() method this is to eliminate digits in other boxes in its peers with the 
-observations of naked twins boxes**
-
-# Question 2 (Diagonal Sudoku)
-Q: How do we use constraint propagation to solve the diagonal sudoku problem?   
-A: **By updating the peers of each box to include diagonal elements, this constraint is automatically implement
- in the eliminate() function and being used as a constraint propagation to solve the diagonal sudoku problem.** 
-
-### Install
+### Installation Guide
 
 This project requires **Python 3**.
 
@@ -30,3 +17,5 @@ Please try using the environment we provided in the Anaconda lesson of the Nanod
 - Step2: Download the aind-environment-windows.yml at the installation folder
 - Step3: "$conda env create -f aind-environment-windows.yml" to create the environment.
 - Step4: then "$activate aind" to enter the environment.
+
+### To get started please check out >> Solving a Sudoku with AI - Lessons Problem.ipynb
