@@ -18,4 +18,6 @@ Please try using the environment we provided in the Anaconda lesson of the Nanod
 - Step3: "$conda env create -f aind-environment-windows.yml" to create the environment.
 - Step4: then "$activate aind" to enter the environment.
 
-### To get started please check out >> Solving a Sudoku with AI - Lessons Problem.ipynb
+### To get started go to >> Solving a Sudoku with AI - Lessons Problem.ipynb
+
+### Need help? Please checkout this [video tutorial](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDr.ChanwitBoonchuay%2Fvideos%2F1877983019109092%2F&show_text=0&width=560) or visit Facebook: [AI มหาชน](https://www.facebook.com/Dr.ChanwitBoonchuay/)
